@@ -1,0 +1,16 @@
+url: https://about.cinemadrape.aurelitec.com
+
+title: About CinemaDrape
+
+remote_theme: AurelitecSites/micrabout
+repository: AurelitecSites/about.cinemadrape
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_title: true
+      sized_quote: false
